@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0239-sliding-window-maximum](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0977-squares-of-a-sorted-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0704-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
