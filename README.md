@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0239-sliding-window-maximum](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
