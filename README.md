@@ -66,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0207-course-schedule) |
