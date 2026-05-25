@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0295-find-median-from-data-stream](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Tree
 |  |
 | ------- |
@@ -130,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
