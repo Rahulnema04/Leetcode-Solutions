@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
@@ -122,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
