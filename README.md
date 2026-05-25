@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
