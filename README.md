@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
