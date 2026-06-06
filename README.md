@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
