@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0326-power-of-three](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Rahulnema04/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
